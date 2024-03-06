@@ -4,5 +4,6 @@ class hello
     int b=9;
     System.out.println("Hello World);
     System.out.println(b-a);
+    System.out.println(a+b);
   }
 }
